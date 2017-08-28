@@ -1,6 +1,5 @@
 === Full Site Cache for KeyCDN ===
 Contributors: ze3kr, keycdn
-Donate link: https://tlo.xyz/donate/
 Tags: keycdn, cache, optimize, performance, speed, pagespeed, html, cdn, proxy
 Requires at least: 4.4
 Tested up to: 4.8.1
